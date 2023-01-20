@@ -18,7 +18,7 @@ contributions:
       python_name: morphometrics._gui._qt.annotation_widgets:QtClusterAnnotatorWidget
       title: Make cluster annotation widget
     - id: morphometrics.QtLabelingWidget
-      python_name: morphometrics._gui._qt.labeling_widgets:QtLabelingWidget
+      python_name: morphometrics._gui.label_curator.qt_label_curator:QtLabelingWidget
       title: Make label curation widget
   sample_data:
     - command: morphometrics.make_simple_labeled_cube
